@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: 'Akshar', sans-serif;
+}
+
+
+h1{
+    display: inline-block;
+    font-size: xx-large;
+    vertical-align: middle;
+}
+
+
+#logo-bool{
+    vertical-align: middle;
+}
+
+header{
+    background-color: white;
+    padding: 80px;
+    margin-bottom: 20px;
+}
+
+
+.container{
+    background-color: rgb(141, 204, 100);
+}
+
+.whitesection{
+    background-color: #fff;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    padding: 80px;
+}
+
+button{
+    border-radius: 2px;
+    padding: 10px;
+    margin: 20px;
+}
+
+#bluebttn{
+    color: #fff;
+    background-color: rgb(71, 173, 241);
+}
+#greybttn{
+    color: rgb(197, 203, 208);
+    background-color: #fff;
+    border: 1px solid;
+}
